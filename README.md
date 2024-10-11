@@ -1,6 +1,6 @@
 # Real-Time Device Tracking App with Node.js, Express, Socket.io, and Leaflet
 
-This project demonstrates how to build a real-time device tracking application using **Node.js**, **Express**, and **Socket.io**, with **Leaflet** for map visualization. The application tracks the location of devices in real time and updates their position on a map using geolocation data.
+A real-time device tracking application using **Node.js**, **Express**, and **Socket.io**, with **Leaflet** for map visualization. The application tracks the location of devices in real time and updates their position on a map using geolocation data.
 
 ## Key Features
 - **Real-Time Tracking**: Utilizes Socket.io to transmit device location updates in real time.
