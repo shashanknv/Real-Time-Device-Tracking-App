@@ -9,7 +9,9 @@ This project demonstrates how to build a real-time device tracking application u
 - **Dynamic Marker Updates**: Adds, moves, and removes markers representing devices on the map as their locations change.
 - **Responsive Front-End**: Styled to ensure the map occupies full screen and works across devices.
 
-## Setup
-1. Clone the repository and install dependencies:
-   ```bash
-   npm install
+## Technologies Used:
+- **Node.js**
+- **Express**
+- **Socket.io**
+- **Leaflet**
+- **Geolocation API**
